@@ -1,0 +1,15 @@
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\2024 oktv.exe
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\barlangok.txt
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\2024 oktv.deps.json
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\2024 oktv.runtimeconfig.json
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\2024 oktv.dll
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\bin\Debug\net8.0\2024 oktv.pdb
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.AssemblyInfoInputs.cache
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.AssemblyInfo.cs
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.csproj.CoreCompileInputs.cache
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.dll
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\refint\2024 oktv.dll
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.pdb
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.genruntimeconfig.cache
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\ref\2024 oktv.dll
