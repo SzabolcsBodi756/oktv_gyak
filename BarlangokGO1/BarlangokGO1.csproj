@@ -8,4 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\2024 oktv\2024 oktv.csproj" />
+  </ItemGroup>
+
 </Project>

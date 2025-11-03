@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "2024 oktv/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/2024 oktv.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2024 oktv.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "2024 oktv/1.0.0": {
+      "type": "project",
+      "path": "../2024 oktv/2024 oktv.csproj",
+      "msbuildProject": "../2024 oktv/2024 oktv.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "2024 oktv >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Bodisz\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Bodisz\\source\\repos\\2024 oktv\\2024 oktv\\2024 oktv.csproj": {
+              "projectPath": "C:\\Users\\Bodisz\\source\\repos\\2024 oktv\\2024 oktv\\2024 oktv.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

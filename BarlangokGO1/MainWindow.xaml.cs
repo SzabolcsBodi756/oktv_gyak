@@ -16,6 +16,9 @@ namespace BarlangokGO1
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        static List<Barlang> barlangok = new List<Barlang>();
+
         public MainWindow()
         {
             InitializeComponent();
