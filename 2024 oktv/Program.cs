@@ -20,7 +20,7 @@
 
         }
 
-        static void feladat_3()
+        public static void feladat_3()
         {
 
             StreamReader sr = new StreamReader("C:\\Users\\Bodisz\\source\\repos\\2024 oktv\\2024 oktv\\barlangok.txt");
@@ -38,12 +38,12 @@
 
         }
 
-        static void feladat_4()
+        public static void feladat_4()
         {
             Console.WriteLine($"Barlangok száma: {barlangok.Count}");
         }
 
-        static void feladat_5()
+        public static void feladat_5()
         {
 
             int osszMelyseg = 0;
@@ -67,7 +67,7 @@
             Console.WriteLine($"A barlangok mélységének átlaga: {(double)(osszMelyseg / miskolciBarlangok):0.000}");
         }
 
-        static void feladat_6()
+        public static void feladat_6()
         {
 
             Console.WriteLine("Kérem a védetségi szintet:");
@@ -109,7 +109,7 @@
 
         }
 
-        static void feladat_7()
+        public static void feladat_7()
         {
 
             Dictionary<string, int> stat = new Dictionary<string, int>();

@@ -1,4 +1,4 @@
-﻿class Barlang
+﻿public class Barlang
 {
     private int melyseg = 0;
     private int hossz = 0;
