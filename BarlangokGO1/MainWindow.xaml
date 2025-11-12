@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BarlangokGO1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="600" FontSize="20">
+        Title="Barlangok" Height="400" Width="600" FontSize="20">
     <Grid>
-        
+
         <Grid.ColumnDefinitions>
 
             <ColumnDefinition/>
@@ -30,7 +30,7 @@
         </WrapPanel>
 
         <WrapPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20">
-            <Label Content="Barlang neve:"/>
+            <Label x:Name="tbAzon_4" Content="Barlang neve:"/>
         </WrapPanel>
 
         <WrapPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20">
@@ -43,9 +43,11 @@
             <TextBox x:Name="tbAzon_3" Height="50" Width="150"/>
         </WrapPanel>
 
-        <Button Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="tbKeres" Content="Barlang keresése"/>
+        <Button Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="tbKeres" Content="Barlang keresése" Click="tbKeres_Click"/>
 
-        <Button Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Center" IsEnabled="False" HorizontalAlignment="Center" x:Name="tbMentes" Content="Adatok mentése"/>
+        <Button Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Center" IsEnabled="False" HorizontalAlignment="Center" x:Name="tbMentes" Content="Adatok mentése" Click="tbMentes_Click"/>
+
+        <Button Grid.Row="2" Grid.Column="2" Grid.RowSpan="1" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="tbFelvisz" Content="Adatok felvitele" Click="tbFelvisz_Click"/>
         
     </Grid>
 </Window>

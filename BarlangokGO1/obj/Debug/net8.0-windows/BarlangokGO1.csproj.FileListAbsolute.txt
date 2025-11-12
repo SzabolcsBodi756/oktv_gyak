@@ -1,0 +1,29 @@
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\2024 oktv.deps.json
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\2024 oktv.runtimeconfig.json
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\2024 oktv.exe
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\BarlangokGO1.exe
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\barlangok.txt
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\BarlangokGO1.deps.json
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\BarlangokGO1.runtimeconfig.json
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\BarlangokGO1.dll
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\BarlangokGO1.pdb
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\2024 oktv.dll
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\bin\Debug\net8.0-windows\2024 oktv.pdb
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.csproj.AssemblyReference.cache
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1_MarkupCompile.cache
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1_MarkupCompile.lref
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.g.resources
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.AssemblyInfoInputs.cache
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.AssemblyInfo.cs
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.csproj.CoreCompileInputs.cache
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.sourcelink.json
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\Barlango.583EBE52.Up2Date
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.dll
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\refint\BarlangokGO1.dll
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.pdb
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\BarlangokGO1.genruntimeconfig.cache
+C:\Users\Bodisz\source\repos\2024 oktv\BarlangokGO1\obj\Debug\net8.0-windows\ref\BarlangokGO1.dll
