@@ -228,3 +228,4 @@ azon;nev;hossz;melyseg;telepules;vedettseg
 227;Viktória-barlang;724;41;Miskolc II.Kerület;fokozottan védett
 228;Zsendice-barlang;111;12;Kács;megkülönböztetetten védett
 229;Zsófiapusztai-víznyelőbarlang;177;33;Úrkút;védett
+230;;7775;76767676;Ismeretlen;nem védett

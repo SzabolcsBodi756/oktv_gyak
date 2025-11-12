@@ -13,3 +13,4 @@ C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\refint\2024 ok
 C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.pdb
 C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.genruntimeconfig.cache
 C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\ref\2024 oktv.dll
+C:\Users\Bodisz\source\repos\2024 oktv\2024 oktv\obj\Debug\net8.0\2024 oktv.sourcelink.json
